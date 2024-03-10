@@ -32,7 +32,7 @@
 ![image](https://glpi-developer-documentation.readthedocs.io/en/master/_images/db_model_computer.png)
 
 <a id="examples"></a>
-# Примеры моих отчётов
+## Примеры моих отчётов
 * vtrm_combined.php
 * vtrm_report.php
 * vtrm_report_appliance
