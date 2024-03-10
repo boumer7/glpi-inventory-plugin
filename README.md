@@ -11,6 +11,8 @@
 * [GLPI простыми словами](https://www.dmosk.ru/terminus.php?object=glpi)
 * [GLPI в организации. Статья на Habr.](https://habr.com/ru/articles/312522/)
 
+[Официальный портал плагинов GLPI](https://plugins.glpi-project.org/#/)
+
 ## Практическая значимость проекта
 Этот проект представляет из себя модификацию уже существующего плагина для отчётов GLPI — [**reports**](https://github.com/yllen/reports)
 
